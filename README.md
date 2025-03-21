@@ -5,7 +5,7 @@ This project shows how to secure service-to-service communication using HMAC-SHA
 
 I built this to mimic two services, a sender and a receiver, talking securely with signatures, replay protection, and some real-world tweaks. 
 
-It’s a companion to my [post](link coming soon!), where I dive deeper into the why and how.
+It’s a companion to my [post](https://www.ronnydelgado.com/my-blog/security-hmac-authentication-demo), where I dive deeper into the why and how.
 
 ## What’s This About?
 HMAC (Hash-based Message Authentication Code) is a lightweight way to ensure authenticity and integrity between services. 
